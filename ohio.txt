@@ -1,3 +1,0 @@
-hello all this is ohio.txt file
-updated
-x=100
